@@ -1,0 +1,11 @@
+.app__newpost{
+    display: flex;
+    flex-direction: column;
+    object-fit: contain;
+    align-items: center;
+    max-width: 500px;
+    background-color: white;
+    border: 1px solid lightseagreen;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
